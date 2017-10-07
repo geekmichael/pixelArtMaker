@@ -15,4 +15,6 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 ## How to Play
 
+Click [here](https://geekmichael.github.io/pixelArtMaker/) to run this project online. If you prefer to run on your local computer, please download all files, and then run the index.html with your favorite web browser (Google Chrome is recommended).
+
 Follow steps on the webpage, start to draw the canvas with a chosen color. Have fun!
