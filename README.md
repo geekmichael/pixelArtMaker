@@ -2,15 +2,17 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* [Introduction](#introduction)
+* [How to Play](#howtoplay)
 
-## Instructions
+## Introduction
 
-To get started, open `designs.js` and start building out the app's functionality.
+This is one of practice project of Udacity Front-End Nano degree course.
+
+All core functions are coded in the file `designs.js`. The most inspired lesson-learned to me in this project is to practice coding skill every day, otherwise I could not remember the basic JS syntax which is absolutely a shame on me!
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
-## Contributing
+## How to Play
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Follow steps on the webpage, start to draw the canvas with a chosen color. Have fun!
